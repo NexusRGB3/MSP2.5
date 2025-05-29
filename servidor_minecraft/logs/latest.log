@@ -1571,3 +1571,132 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [29May2025 04:44:01.470] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 50195 bytes (in 6 string chunks with the size of 10000)
 [29May2025 04:44:01.471] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [29May2025 04:44:01.490] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[29May2025 05:06:07.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
+[29May2025 05:07:04.401] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player NexusRGB_ is 68cb15d9-37b7-3236-9f84-21f913fd77bf
+[29May2025 05:07:13.434] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[29May2025 05:07:13.481] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@70a4348
+[29May2025 05:07:13.491] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NexusRGB_[/127.243.86.2:43581] logged in with entity id 11310 at (-6.5, 82.0, -8.5)
+[29May2025 05:07:13.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NexusRGB_ joined the game
+[29May2025 05:07:13.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NexusRGB_ has made the advancement [Ultris: Boss Expansion]
+[29May2025 05:07:13.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NexusRGB_ has made the advancement [Integrated Dungeons and Structures]
+[29May2025 05:07:15.852] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of NexusRGB_ (18)
+[29May2025 05:07:15.854] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to NexusRGB_
+[29May2025 05:07:15.972] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 68cb15d9-37b7-3236-9f84-21f913fd77bf was loaded
+[29May2025 05:07:16.442] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ lost connection: Disconnected
+[29May2025 05:07:16.444] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 68cb15d9-37b7-3236-9f84-21f913fd77bf was unloaded
+[29May2025 05:07:16.449] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NexusRGB_
+[29May2025 05:07:16.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NexusRGB_ left the game
+[29May2025 05:07:52.912] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player NexusRGB_ is 68cb15d9-37b7-3236-9f84-21f913fd77bf
+[29May2025 05:07:59.901] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1b85b513
+[29May2025 05:07:59.915] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_birch_sapling_to_birch_seed removed now.
+[29May2025 05:07:59.915] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_dark_oak_sapling_to_dark_oak_seed removed now.
+[29May2025 05:07:59.915] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_azalea_to_azalea_seed removed now.
+[29May2025 05:07:59.916] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_mangrove_propagule_to_mangrove_seed removed now.
+[29May2025 05:07:59.916] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:crimson_seed_to_minecraft_crimson_fungus removed now.
+[29May2025 05:07:59.916] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:warped_seed_to_minecraft_warped_fungus removed now.
+[29May2025 05:07:59.917] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_apple_to_apple_oak_seed removed now.
+[29May2025 05:07:59.917] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:acacia_seed_to_minecraft_acacia_sapling removed now.
+[29May2025 05:07:59.917] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:spruce_seed_to_minecraft_spruce_sapling removed now.
+[29May2025 05:07:59.917] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_warped_fungus_to_warped_seed removed now.
+[29May2025 05:07:59.918] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_flowering_azalea_to_azalea_seed removed now.
+[29May2025 05:07:59.918] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_oak_sapling_to_oak_seed removed now.
+[29May2025 05:07:59.918] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:jungle_seed_to_minecraft_jungle_sapling removed now.
+[29May2025 05:07:59.919] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_jungle_sapling_to_jungle_seed removed now.
+[29May2025 05:07:59.919] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_spruce_sapling_to_spruce_seed removed now.
+[29May2025 05:07:59.919] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:azalea_seed_to_minecraft_azalea removed now.
+[29May2025 05:07:59.919] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:oak_seed_to_minecraft_oak_sapling removed now.
+[29May2025 05:07:59.920] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:dark_oak_seed_to_minecraft_dark_oak_sapling removed now.
+[29May2025 05:07:59.920] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_crimson_fungus_to_crimson_seed removed now.
+[29May2025 05:07:59.920] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:mangrove_seed_to_minecraft_mangrove_propagule removed now.
+[29May2025 05:07:59.920] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_acacia_sapling_to_acacia_seed removed now.
+[29May2025 05:07:59.921] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:birch_seed_to_minecraft_birch_sapling removed now.
+[29May2025 05:07:59.921] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:azalea_seed_to_minecraft_flowering_azalea removed now.
+[29May2025 05:07:59.921] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_birch_sapling_to_birch_seed removed now.
+[29May2025 05:07:59.921] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_dark_oak_sapling_to_dark_oak_seed removed now.
+[29May2025 05:07:59.922] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_azalea_to_azalea_seed removed now.
+[29May2025 05:07:59.922] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_mangrove_propagule_to_mangrove_seed removed now.
+[29May2025 05:07:59.922] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:crimson_seed_to_minecraft_crimson_fungus removed now.
+[29May2025 05:07:59.922] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:warped_seed_to_minecraft_warped_fungus removed now.
+[29May2025 05:07:59.923] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_apple_to_apple_oak_seed removed now.
+[29May2025 05:07:59.923] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:acacia_seed_to_minecraft_acacia_sapling removed now.
+[29May2025 05:07:59.923] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:spruce_seed_to_minecraft_spruce_sapling removed now.
+[29May2025 05:07:59.923] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_warped_fungus_to_warped_seed removed now.
+[29May2025 05:07:59.924] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_flowering_azalea_to_azalea_seed removed now.
+[29May2025 05:07:59.924] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_oak_sapling_to_oak_seed removed now.
+[29May2025 05:07:59.924] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:jungle_seed_to_minecraft_jungle_sapling removed now.
+[29May2025 05:07:59.925] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_jungle_sapling_to_jungle_seed removed now.
+[29May2025 05:07:59.925] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_spruce_sapling_to_spruce_seed removed now.
+[29May2025 05:07:59.925] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:azalea_seed_to_minecraft_azalea removed now.
+[29May2025 05:07:59.925] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:oak_seed_to_minecraft_oak_sapling removed now.
+[29May2025 05:07:59.925] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:dark_oak_seed_to_minecraft_dark_oak_sapling removed now.
+[29May2025 05:07:59.926] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_crimson_fungus_to_crimson_seed removed now.
+[29May2025 05:07:59.926] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:mangrove_seed_to_minecraft_mangrove_propagule removed now.
+[29May2025 05:07:59.926] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_acacia_sapling_to_acacia_seed removed now.
+[29May2025 05:07:59.926] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:birch_seed_to_minecraft_birch_sapling removed now.
+[29May2025 05:07:59.926] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:azalea_seed_to_minecraft_flowering_azalea removed now.
+[29May2025 05:07:59.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NexusRGB_[/127.243.86.2:36585] logged in with entity id 11830 at (-6.5, 82.0, -8.5)
+[29May2025 05:07:59.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NexusRGB_ joined the game
+[29May2025 05:08:00.714] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of NexusRGB_ (18)
+[29May2025 05:08:00.715] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to NexusRGB_
+[29May2025 05:08:00.767] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 68cb15d9-37b7-3236-9f84-21f913fd77bf was loaded
+[29May2025 05:08:02.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ lost connection: Disconnected
+[29May2025 05:08:02.163] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 68cb15d9-37b7-3236-9f84-21f913fd77bf was unloaded
+[29May2025 05:08:02.163] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NexusRGB_
+[29May2025 05:08:02.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NexusRGB_ left the game
+[29May2025 05:09:55.090] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player NexusRGB_ is 68cb15d9-37b7-3236-9f84-21f913fd77bf
+[29May2025 05:10:02.092] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@728e6414
+[29May2025 05:10:02.103] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_birch_sapling_to_birch_seed removed now.
+[29May2025 05:10:02.103] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_dark_oak_sapling_to_dark_oak_seed removed now.
+[29May2025 05:10:02.103] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_azalea_to_azalea_seed removed now.
+[29May2025 05:10:02.103] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_mangrove_propagule_to_mangrove_seed removed now.
+[29May2025 05:10:02.103] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:crimson_seed_to_minecraft_crimson_fungus removed now.
+[29May2025 05:10:02.104] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:warped_seed_to_minecraft_warped_fungus removed now.
+[29May2025 05:10:02.104] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_apple_to_apple_oak_seed removed now.
+[29May2025 05:10:02.104] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:acacia_seed_to_minecraft_acacia_sapling removed now.
+[29May2025 05:10:02.105] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:spruce_seed_to_minecraft_spruce_sapling removed now.
+[29May2025 05:10:02.105] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_warped_fungus_to_warped_seed removed now.
+[29May2025 05:10:02.106] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_flowering_azalea_to_azalea_seed removed now.
+[29May2025 05:10:02.106] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_oak_sapling_to_oak_seed removed now.
+[29May2025 05:10:02.106] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:jungle_seed_to_minecraft_jungle_sapling removed now.
+[29May2025 05:10:02.106] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_jungle_sapling_to_jungle_seed removed now.
+[29May2025 05:10:02.106] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_spruce_sapling_to_spruce_seed removed now.
+[29May2025 05:10:02.107] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:azalea_seed_to_minecraft_azalea removed now.
+[29May2025 05:10:02.107] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:oak_seed_to_minecraft_oak_sapling removed now.
+[29May2025 05:10:02.107] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:dark_oak_seed_to_minecraft_dark_oak_sapling removed now.
+[29May2025 05:10:02.108] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_crimson_fungus_to_crimson_seed removed now.
+[29May2025 05:10:02.108] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:mangrove_seed_to_minecraft_mangrove_propagule removed now.
+[29May2025 05:10:02.108] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_acacia_sapling_to_acacia_seed removed now.
+[29May2025 05:10:02.108] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:birch_seed_to_minecraft_birch_sapling removed now.
+[29May2025 05:10:02.109] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:azalea_seed_to_minecraft_flowering_azalea removed now.
+[29May2025 05:10:02.109] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_birch_sapling_to_birch_seed removed now.
+[29May2025 05:10:02.109] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_dark_oak_sapling_to_dark_oak_seed removed now.
+[29May2025 05:10:02.109] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_azalea_to_azalea_seed removed now.
+[29May2025 05:10:02.109] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_mangrove_propagule_to_mangrove_seed removed now.
+[29May2025 05:10:02.110] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:crimson_seed_to_minecraft_crimson_fungus removed now.
+[29May2025 05:10:02.110] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:warped_seed_to_minecraft_warped_fungus removed now.
+[29May2025 05:10:02.110] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_apple_to_apple_oak_seed removed now.
+[29May2025 05:10:02.110] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:acacia_seed_to_minecraft_acacia_sapling removed now.
+[29May2025 05:10:02.110] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:spruce_seed_to_minecraft_spruce_sapling removed now.
+[29May2025 05:10:02.111] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_warped_fungus_to_warped_seed removed now.
+[29May2025 05:10:02.111] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_flowering_azalea_to_azalea_seed removed now.
+[29May2025 05:10:02.111] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_oak_sapling_to_oak_seed removed now.
+[29May2025 05:10:02.111] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:jungle_seed_to_minecraft_jungle_sapling removed now.
+[29May2025 05:10:02.112] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_jungle_sapling_to_jungle_seed removed now.
+[29May2025 05:10:02.112] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_spruce_sapling_to_spruce_seed removed now.
+[29May2025 05:10:02.112] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:azalea_seed_to_minecraft_azalea removed now.
+[29May2025 05:10:02.112] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:oak_seed_to_minecraft_oak_sapling removed now.
+[29May2025 05:10:02.113] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:dark_oak_seed_to_minecraft_dark_oak_sapling removed now.
+[29May2025 05:10:02.113] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_crimson_fungus_to_crimson_seed removed now.
+[29May2025 05:10:02.113] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:mangrove_seed_to_minecraft_mangrove_propagule removed now.
+[29May2025 05:10:02.113] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:minecraft_acacia_sapling_to_acacia_seed removed now.
+[29May2025 05:10:02.113] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:birch_seed_to_minecraft_birch_sapling removed now.
+[29May2025 05:10:02.114] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: dynamictrees:azalea_seed_to_minecraft_flowering_azalea removed now.
+[29May2025 05:10:02.114] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NexusRGB_[/127.243.86.2:42149] logged in with entity id 12890 at (-6.5, 82.0, -8.5)
+[29May2025 05:10:02.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NexusRGB_ joined the game
+[29May2025 05:10:02.855] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of NexusRGB_ (18)
+[29May2025 05:10:02.856] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to NexusRGB_
+[29May2025 05:10:02.908] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 68cb15d9-37b7-3236-9f84-21f913fd77bf was loaded
+[29May2025 05:10:04.404] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ lost connection: Disconnected
+[29May2025 05:10:04.404] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 68cb15d9-37b7-3236-9f84-21f913fd77bf was unloaded
+[29May2025 05:10:04.404] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NexusRGB_
+[29May2025 05:10:04.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NexusRGB_ left the game
