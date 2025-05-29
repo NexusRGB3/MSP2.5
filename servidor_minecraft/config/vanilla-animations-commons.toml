@@ -1,0 +1,7 @@
+
+#Common
+[common]
+	"Enable illagers to pursue and eliminate players with bad omen" = true
+	"Enable illagers patrolling in the structure" = true
+	"Enable elite mobs spawning" = true
+
