@@ -20670,3 +20670,7 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [31May2025 17:22:24.227] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of NexusRGB_
 [31May2025 17:22:24.228] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NexusRGB_
 [31May2025 17:22:24.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NexusRGB_ left the game
+[31May2025 17:26:12.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 17:26:12.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 17:31:12.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 17:31:12.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
