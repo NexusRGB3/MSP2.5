@@ -1670,3 +1670,38 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [31May2025 02:58:59.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
 [31May2025 02:59:03.462] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /revive NexusRGB_
 [31May2025 02:59:07.153] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['That_Insane_Guy'/8582, l='ServerLevel[world]', x=-136.84, y=69.00, z=84.68] died: That_Insane_Guy was slain by Assimilated Pig
+[31May2025 02:59:58.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[31May2025 03:00:05.613] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /revive NexusRGB_
+[31May2025 03:00:07.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ moved wrongly!
+[31May2025 03:00:11.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[31May2025 03:00:15.673] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /revive NexusRGB_
+[31May2025 03:00:16.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[31May2025 03:00:18.351] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /gamemode creative
+[31May2025 03:00:18.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NexusRGB_: Set own game mode to Creative Mode]
+[31May2025 03:00:20.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /revive NexusRGB_
+[31May2025 03:00:28.708] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /gamemode survival
+[31May2025 03:00:28.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NexusRGB_: Set own game mode to Survival Mode]
+[31May2025 03:00:48.507] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['hacie'/11311, l='ServerLevel[world]', x=-143.67, y=42.87, z=-159.77] died: hacie was slain by Assimilated Human
+[31May2025 03:01:13.006] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[31May2025 03:01:18.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NexusRGB_ has made the advancement ['X' Marks the Spot]
+[31May2025 03:02:13.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[31May2025 03:02:43.660] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /revive NexusRGB_
+[31May2025 03:02:45.654] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Zero'/14567, l='ServerLevel[world]', x=-234.67, y=86.00, z=-333.53] died: Zero was slain by Assimilated Witch
+[31May2025 03:02:56.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[31May2025 03:03:00.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NexusRGB_ has made the advancement [Getting an Upgrade]
+[31May2025 03:03:17.204] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['hacie'/14898, l='ServerLevel[world]', x=-225.41, y=86.00, z=-340.67] died: hacie was slain by Assimilated Human
+[31May2025 03:03:18.202] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['JhonOK22'/14899, l='ServerLevel[world]', x=-224.93, y=86.00, z=-339.46] died: JhonOK22 was slain by Assimilated Human
+[31May2025 03:03:45.001] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DevelopedRoamerEntity['Flames'/14425, l='ServerLevel[world]', x=-253.47, y=80.00, z=-367.31] died: Flames forgot Infected Human was a bioweapon
+[31May2025 03:04:47.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[31May2025 03:05:00.319] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /revive NexusRGB_
+[31May2025 03:06:19.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[31May2025 03:06:28.217] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /revive NexusRGB_
+[31May2025 03:06:32.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[31May2025 03:06:37.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /revive NexusRGB_
+[31May2025 03:07:56.165] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Deyvid'/16878, l='ServerLevel[world]', x=-244.40, y=81.00, z=-372.21] died: Deyvid was shot by Infected Pillager
+[31May2025 03:08:22.749] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:invasion_trigger but it was marked as removed already
+[31May2025 03:08:23.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /gamemode creative
+[31May2025 03:08:23.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NexusRGB_: Set own game mode to Creative Mode]
+[31May2025 03:08:32.172] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /gamemode survival
+[31May2025 03:08:32.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NexusRGB_: Set own game mode to Survival Mode]
+[31May2025 03:09:11.599] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Keymind'/22009, l='ServerLevel[world]', x=-240.24, y=108.00, z=-273.06] died: Keymind was slain by Human Stage 2

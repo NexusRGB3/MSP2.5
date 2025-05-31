@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-05-31 03:01:18 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-05-29 05:40:12 +0000"
@@ -47,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-31 03:03:00 +0000"
+    },
+    "done": true
+  },
   "1_splatus:ultris/root": {
     "criteria": {
       "c1": "2025-05-29 05:40:12 +0000"
@@ -73,10 +85,17 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "highland": "2025-05-31 03:00:28 +0000",
       "redwood_forest": "2025-05-29 06:12:38 +0000",
       "cherry_blossom_grove": "2025-05-29 05:40:14 +0000"
     },
     "done": false
+  },
+  "apollyon:apollyon": {
+    "criteria": {
+      "apollyon": "2025-05-31 02:55:59 +0000"
+    },
+    "done": true
   },
   "minecraft:story/mine_stone": {
     "criteria": {
@@ -102,6 +121,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-05-31 03:01:18 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:standard_from_custom": {
     "criteria": {
       "has_the_recipe": "2025-05-29 05:40:12 +0000"
@@ -113,6 +138,13 @@
       "tick": "2025-05-29 05:40:12 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-05-31 02:57:05 +0000",
+      "minecraft:meadow": "2025-05-31 03:01:05 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3120
 }
