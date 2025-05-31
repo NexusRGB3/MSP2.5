@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "uuid": "1410342d-2cf0-309a-82f8-b26c94ce7fe2",
+    "name": "nexusrgb",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "68cb15d9-37b7-3236-9f84-21f913fd77bf",
+    "name": "NexusRGB_",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
