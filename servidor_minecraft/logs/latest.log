@@ -1705,3 +1705,38 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [31May2025 03:08:32.172] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /gamemode survival
 [31May2025 03:08:32.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NexusRGB_: Set own game mode to Survival Mode]
 [31May2025 03:09:11.599] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Keymind'/22009, l='ServerLevel[world]', x=-240.24, y=108.00, z=-273.06] died: Keymind was slain by Human Stage 2
+[31May2025 03:09:25.669] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Pajera'/22072, l='ServerLevel[world]', x=-193.98, y=118.00, z=-333.21] died: Pajera was slain by Assimilated Spider
+[31May2025 03:09:46.252] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['WhisperFire26'/22511, l='ServerLevel[world]', x=-200.17, y=108.00, z=-352.48] died: WhisperFire26 was slain by Assimilated Human
+[31May2025 03:09:49.581] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DevelopedRoamerEntity['Flames'/16807, l='ServerLevel[world]', x=-178.39, y=121.00, z=-292.52] died: Flames was slain by NexusRGB_
+[31May2025 03:10:49.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NexusRGB_ has made the advancement [Sweet Dreams]
+[31May2025 03:10:58.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[31May2025 03:11:37.988] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:invasion_trigger but it was marked as removed already
+[31May2025 03:11:38.041] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Gistique'/24241, l='ServerLevel[world]', x=-226.53, y=87.00, z=-338.46] died: Gistique was blown up by Creeper
+[31May2025 03:12:02.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[31May2025 03:12:07.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /revive NexusRGB_
+[31May2025 03:12:13.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[31May2025 03:12:17.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /revive NexusRGB_
+[31May2025 03:12:23.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[31May2025 03:12:25.958] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /revive NexusRGB_
+[31May2025 03:12:26.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[31May2025 03:12:30.638] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /revive NexusRGB_
+[31May2025 03:12:33.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[31May2025 03:12:35.640] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /revive NexusRGB_
+[31May2025 03:12:46.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[31May2025 03:12:51.739] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /revive NexusRGB_
+[31May2025 03:12:59.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[31May2025 03:13:00.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NexusRGB_ was killed by magic whilst trying to escape Assimilated Evoker
+[31May2025 03:13:04.400] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [NexusRGB_]
+[31May2025 03:13:04.400] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [NexusRGB_]
+[31May2025 03:15:13.556] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity extermination:harvest_trigger but it was marked as removed already
+[31May2025 03:16:19.611] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Pajera'/31059, l='ServerLevel[world]', x=-126.01, y=26.00, z=-322.01] died: Pajera was slain by DAKOTA
+[31May2025 03:16:29.504] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedRoamerEntity['DAKOTA'/31977, l='ServerLevel[world]', x=-126.83, y=26.00, z=-321.13] died: DAKOTA was eaten alive by Infected Pillager
+[31May2025 03:16:37.265] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['xXFuryXx'/33505, l='ServerLevel[world]', x=-243.64, y=84.00, z=-353.76] died: xXFuryXx was blown up by Creeper
+[31May2025 03:17:01.202] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Dany_Why'/33740, l='ServerLevel[world]', x=-229.81, y=83.00, z=-360.85] died: Dany_Why was slain by Assimilated Evoker
+[31May2025 03:17:12.354] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedRoamerEntity['DAKOTA'/34286, l='ServerLevel[world]', x=-169.22, y=46.00, z=-484.91] died: DAKOTA was slain by Zombie
+[31May2025 03:17:27.058] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Helldwin'/34931, l='ServerLevel[world]', x=-198.39, y=91.68, z=-341.31] died: Helldwin was slain by Assimilated Horse
+[31May2025 03:17:42.459] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedRoamerEntity['Flames'/35298, l='ServerLevel[world]', x=-236.04, y=83.00, z=-372.41] died: Flames was eaten alive by Infected Pillager
+[31May2025 03:17:51.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[31May2025 03:17:54.758] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Entity'/35769, l='ServerLevel[world]', x=-175.02, y=46.00, z=-477.91] died: Entity was slain by Assimilated Human
+[31May2025 03:18:27.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /revive NexusRGB_
+[31May2025 03:19:15.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding

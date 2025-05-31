@@ -5,12 +5,6 @@
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "cherry_blossom_grove": "2025-05-29 05:40:14 +0000"
-    },
-    "done": true
-  },
   "lootr:social": {
     "criteria": {
       "opened_chest": "2025-05-31 03:01:18 +0000"
@@ -23,24 +17,6 @@
     },
     "done": true
   },
-  "create:root": {
-    "criteria": {
-      "0": "2025-05-29 05:40:12 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/root": {
-    "criteria": {
-      "crafting_table": "2025-05-31 02:53:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-05-31 02:52:07 +0000"
-    },
-    "done": true
-  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-05-29 05:40:12 +0000"
@@ -50,24 +26,6 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-05-29 05:40:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-05-31 03:03:00 +0000"
-    },
-    "done": true
-  },
-  "1_splatus:ultris/root": {
-    "criteria": {
-      "c1": "2025-05-29 05:40:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-05-31 02:53:18 +0000"
     },
     "done": true
   },
@@ -103,6 +61,67 @@
     },
     "done": true
   },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2025-05-29 05:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-05-31 02:57:05 +0000",
+      "minecraft:meadow": "2025-05-31 03:01:05 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "cherry_blossom_grove": "2025-05-29 05:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-31 03:10:49 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-05-29 05:40:12 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-05-31 02:53:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-31 02:52:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-31 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/root": {
+    "criteria": {
+      "c1": "2025-05-29 05:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-05-31 02:53:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-05-29 06:12:57 +0000"
@@ -132,19 +151,6 @@
       "has_the_recipe": "2025-05-29 05:40:12 +0000"
     },
     "done": true
-  },
-  "parcool:grant_parcool_guide": {
-    "criteria": {
-      "tick": "2025-05-29 05:40:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:river": "2025-05-31 02:57:05 +0000",
-      "minecraft:meadow": "2025-05-31 03:01:05 +0000"
-    },
-    "done": false
   },
   "DataVersion": 3120
 }
