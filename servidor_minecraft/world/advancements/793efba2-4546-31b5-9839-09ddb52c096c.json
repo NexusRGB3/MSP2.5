@@ -49,9 +49,16 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "coniferous_forest": "2025-06-01 16:31:08 +0000"
+      "coniferous_forest": "2025-06-01 16:31:08 +0000",
+      "seasonal_forest": "2025-06-01 16:34:59 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-06-01 16:34:22 +0000"
+    },
+    "done": true
   },
   "mowziesmobs:root": {
     "criteria": {
@@ -76,6 +83,12 @@
       "tick": "2025-06-01 16:31:08 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:stony_shore": "2025-06-01 16:37:06 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3120
 }
