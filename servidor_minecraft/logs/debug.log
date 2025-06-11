@@ -25184,3 +25184,7 @@ Caused by: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.v1_19_R3.ent
 [11Jun2025 18:04:39.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Jun2025 18:04:39.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11Jun2025 18:06:07.094] [Server thread/INFO] [Console/]: [Staff+] Staff+ is now auto saving...
+[11Jun2025 18:09:39.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 18:09:39.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 18:14:39.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 18:14:39.192] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
