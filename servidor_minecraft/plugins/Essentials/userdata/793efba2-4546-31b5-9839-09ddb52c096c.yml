@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1748808406060
+  logout: 1749664719460
   login: 1749661651237
 money: '0'
 last-account-name: MichyVT
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 511c5d99-5de2-45fe-917d-9222b7e2b19d
   world-name: world
-  x: -148.27940076777895
-  y: 79.98935788470119
-  z: -122.083068599592
-  yaw: -31.32666015625
-  pitch: 38.39921569824219
+  x: 7.0418742601165825
+  y: 70.0
+  z: 7.688484584516332
+  yaw: 178.14581298828125
+  pitch: 8.674751281738281

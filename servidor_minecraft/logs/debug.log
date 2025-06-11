@@ -25174,3 +25174,13 @@ Caused by: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.v1_19_R3.ent
 [11Jun2025 17:58:04.760] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode creative
 [11Jun2025 17:58:10.314] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode survival
 [11Jun2025 17:58:27.662] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode creative
+[11Jun2025 17:58:39.459] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT lost connection: Disconnected
+[11Jun2025 17:58:39.459] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 793efba2-4546-31b5-9839-09ddb52c096c was unloaded
+[11Jun2025 17:58:39.459] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of MichyVT
+[11Jun2025 17:58:39.459] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MichyVT
+[11Jun2025 17:58:39.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MichyVT left the game
+[11Jun2025 17:59:39.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 17:59:39.216] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 18:04:39.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 18:04:39.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 18:06:07.094] [Server thread/INFO] [Console/]: [Staff+] Staff+ is now auto saving...
