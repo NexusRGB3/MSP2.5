@@ -6177,3 +6177,4 @@ Caused by: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.v1_19_R3.ent
 [11Jun2025 17:58:39.459] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MichyVT
 [11Jun2025 17:58:39.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MichyVT left the game
 [11Jun2025 18:06:07.094] [Server thread/INFO] [Console/]: [Staff+] Staff+ is now auto saving...
+[11Jun2025 18:25:03.795] [Server thread/INFO] [Essentials/]: NULL issued server command: /weather thunder 350
