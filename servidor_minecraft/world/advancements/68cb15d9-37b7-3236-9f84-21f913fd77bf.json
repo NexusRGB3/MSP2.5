@@ -57,6 +57,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-01 18:15:54 +0000",
+      "cooked_beef": "2025-06-11 17:20:11 +0000",
       "apple": "2025-06-01 17:32:43 +0000",
       "cooked_cod": "2025-06-01 18:13:32 +0000",
       "cooked_salmon": "2025-06-01 17:42:43 +0000"
@@ -122,9 +123,21 @@
     },
     "done": true
   },
+  "1_splatus:ultris/illusioner2": {
+    "criteria": {
+      "c1": "2025-06-11 17:19:20 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "maple_woods": "2025-06-01 17:23:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-11 17:19:52 +0000"
     },
     "done": true
   },
@@ -137,6 +150,12 @@
   "dungeons_arise:find_undead_pirate_ship": {
     "criteria": {
       "location0": "2025-06-01 20:53:25 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/illusionerkill": {
+    "criteria": {
+      "c1": "2025-06-11 17:19:52 +0000"
     },
     "done": true
   },
@@ -173,6 +192,12 @@
   "apollyon:back_to_hell": {
     "criteria": {
       "back_to_hell": "2025-06-01 18:51:15 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/illusioner": {
+    "criteria": {
+      "c1": "2025-06-11 17:19:13 +0000"
     },
     "done": true
   },
@@ -223,6 +248,12 @@
       "has_the_recipe": "2025-06-01 17:23:17 +0000"
     },
     "done": true
+  },
+  "1_splatus:ultris/completed": {
+    "criteria": {
+      "illusioner": "2025-06-11 17:19:52 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3120
 }

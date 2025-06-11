@@ -22985,3 +22985,179 @@ Caused by: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.v1_19_R3.ent
 [11Jun2025 17:17:28.718] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['bartsek009 '/18122, l='ServerLevel[world]', x=-180.92, y=-32.58, z=-59.30] died: bartsek009  was burnt to a crisp whilst fighting Bat_Minion
 [11Jun2025 17:17:34.573] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Zero'/17146, l='ServerLevel[world]', x=-88.90, y=12.00, z=12.50] died: Zero was slain by Flames
 [11Jun2025 17:17:43.175] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Azami'/18383, l='ServerLevel[world]', x=-179.51, y=-35.25, z=-54.70] died: Azami was burnt to a crisp whilst fighting Assimilated Fox
+[11Jun2025 17:19:11.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 17:19:11.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 17:19:13.244] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ItemBaseSteeringMixin from mixins.arclight.core.json into net.minecraft.world.entity.ItemBasedSteering
+[11Jun2025 17:19:18.583] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /weather cl
+[11Jun2025 17:19:20.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NexusRGB_ has made the advancement [Porky Illusions]
+[11Jun2025 17:19:21.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /weather clear
+[11Jun2025 17:19:23.284] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode survival
+[11Jun2025 17:19:25.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode creative
+[11Jun2025 17:19:27.743] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Illusioner'/20401, l='ServerLevel[world]', x=-107.02, y=67.00, z=-73.72] died: Illusioner fell out of the world
+[11Jun2025 17:19:27.783] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /time set day
+[11Jun2025 17:19:28.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode survival
+[11Jun2025 17:19:32.993] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Illusioner'/20590, l='ServerLevel[world]', x=-106.80, y=67.00, z=-74.70] died: Illusioner fell out of the world
+[11Jun2025 17:19:33.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MichyVT has made the advancement [Porky Illusions]
+[11Jun2025 17:19:38.243] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Illusioner'/20761, l='ServerLevel[world]', x=-95.45, y=67.00, z=-59.34] died: Illusioner fell out of the world
+[11Jun2025 17:19:38.951] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /gamemode survival
+[11Jun2025 17:19:43.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MichyVT has made the advancement [Monster Hunter]
+[11Jun2025 17:19:43.430] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Illusioner'/20907, l='ServerLevel[world]', x=-112.80, y=68.00, z=-89.20] died: Illusioner was pummeled by MichyVT
+[11Jun2025 17:19:44.366] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Illusioner'/20909, l='ServerLevel[world]', x=-93.04, y=80.00, z=-77.88] died: Illusioner was pummeled by NexusRGB_
+[11Jun2025 17:19:51.172] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Illusioner'/21017, l='ServerLevel[world]', x=-83.79, y=84.00, z=-77.41] died: Illusioner didn't want to live in the same world as NexusRGB_
+[11Jun2025 17:19:52.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NexusRGB_ has made the advancement [Voluntary Exile]
+[11Jun2025 17:19:52.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NexusRGB_ has made the advancement [Shows Over!]
+[11Jun2025 17:20:00.379] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode creative
+[11Jun2025 17:20:13.615] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Pajera'/18937, l='ServerLevel[world]', x=-110.82, y=-30.00, z=-126.42] died: Pajera died
+[11Jun2025 17:20:16.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode survival
+[11Jun2025 17:20:17.963] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Sire_AwfulThe1st'/19904, l='ServerLevel[world]', x=-63.50, y=20.10, z=-101.50] died: Sire_AwfulThe1st suffocated in a wall
+[11Jun2025 17:20:21.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[11Jun2025 17:20:37.191] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /revive NexusRGB_
+[11Jun2025 17:20:48.379] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /revive NexusRGB_
+[11Jun2025 17:20:56.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /gamerule keepInventory true
+[11Jun2025 17:20:56.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NexusRGB_: Gamerule keepInventory is now set to: true]
+[11Jun2025 17:21:01.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[11Jun2025 17:21:06.833] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /gamemode creative
+[11Jun2025 17:21:53.722] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode creative
+[11Jun2025 17:22:16.725] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode survival
+[11Jun2025 17:22:17.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /gamemode survival
+[11Jun2025 17:22:26.377] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedRoamerEntity['NPC_D'/23897, l='ServerLevel[world]', x=-38.96, y=-5.00, z=-69.66] died: NPC_D was eaten alive by Infected Wandering Trader
+[11Jun2025 17:22:45.988] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode creative
+[11Jun2025 17:23:07.816] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /gamemode creative
+[11Jun2025 17:23:10.255] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode survival
+[11Jun2025 17:23:20.299] [Server thread/DEBUG] [de.cadentem.mimic_dweller.MimicDweller/]: Mimic Dweller could not pass the spawn checks, target: [ServerPlayer['MichyVT'/4843, l='ServerLevel[world]', x=-128.01, y=88.00, z=-157.00](MichyVT at -128.0101670931871,88.0,-156.99535163086912)]
+[11Jun2025 17:23:32.618] [Server thread/DEBUG] [de.cadentem.mimic_dweller.MimicDweller/]: Mimic Dweller could not pass the spawn checks, target: [ServerPlayer['MichyVT'/4843, l='ServerLevel[world]', x=-128.01, y=88.00, z=-157.00](MichyVT at -128.0101670931871,88.0,-156.99535163086912)]
+[11Jun2025 17:23:35.290] [Server thread/DEBUG] [de.cadentem.mimic_dweller.MimicDweller/]: Mimic Dweller could not pass the spawn checks, target: [ServerPlayer['MichyVT'/4843, l='ServerLevel[world]', x=-128.01, y=88.00, z=-157.00](MichyVT at -128.0101670931871,88.0,-156.99535163086912)]
+[11Jun2025 17:23:37.865] [Server thread/DEBUG] [de.cadentem.mimic_dweller.MimicDweller/]: Mimic Dweller could not pass the spawn checks, target: [ServerPlayer['MichyVT'/4843, l='ServerLevel[world]', x=-128.01, y=88.00, z=-157.00](MichyVT at -128.0101670931871,88.0,-156.99535163086912)]
+[11Jun2025 17:23:45.534] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode creative
+[11Jun2025 17:23:50.561] [Worker-Main-3/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/mojang/math/OctahedralGroup$1
+[11Jun2025 17:23:51.261] [Worker-Main-3/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/StairBlock$1
+[11Jun2025 17:23:51.382] [Worker-Main-2/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/levelgen/structure/structures/MineshaftPieces$1
+[11Jun2025 17:23:51.577] [Worker-Main-3/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[11Jun2025 17:23:51.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT moved too quickly! 6.936687767210117,0.0,-11.03164990604995
+[11Jun2025 17:23:52.610] [Worker-Main-1/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/WallBlock$1
+[11Jun2025 17:23:52.614] [Worker-Main-1/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/Entity$1
+[11Jun2025 17:23:56.454] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[11Jun2025 17:23:58.895] [Worker-Main-2/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/levelgen/structure/structures/OceanRuinPieces$1
+[11Jun2025 17:24:13.641] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 17:24:13.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 17:24:15.419] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Keymind'/26272, l='ServerLevel[world]', x=-84.35, y=-10.00, z=-184.68] died: Keymind was slain by Assimilated Human
+[11Jun2025 17:24:39.725] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['hacie'/26273, l='ServerLevel[world]', x=-95.52, y=-10.58, z=-181.70] died: hacie was slain by Assimilated Donkey
+[11Jun2025 17:24:49.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /gamemode survival
+[11Jun2025 17:25:00.280] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode survival
+[11Jun2025 17:25:18.875] [Server thread/INFO] [Essentials/]: NULL issued server command: /weather thunder 350
+[11Jun2025 17:25:20.776] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode creative
+[11Jun2025 17:25:43.833] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode survival
+[11Jun2025 17:25:48.471] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Joker_de_Coeur'/28010, l='ServerLevel[world]', x=-96.75, y=-40.00, z=-182.91] died: Joker_de_Coeur was slain by Assimilated Enderman
+[11Jun2025 17:26:21.136] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['WhisperFire26'/29026, l='ServerLevel[world]', x=0.30, y=-5.00, z=-194.93] died: WhisperFire26 was slain by Assimilated Witch
+[11Jun2025 17:26:37.211] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [NexusRGB_]
+[11Jun2025 17:26:41.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[11Jun2025 17:26:46.842] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode creative
+[11Jun2025 17:26:48.030] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode survival
+[11Jun2025 17:26:53.967] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Kraken'/28186, l='ServerLevel[world]', x=-38.00, y=-41.00, z=-204.08] died: Kraken died because of Human Stage 1
+[11Jun2025 17:27:49.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[11Jun2025 17:27:49.395] [Server thread/INFO] [Essentials/]: NULL issued server command: /tp @e[type=apollyon:the_damned,nbt={ForgeData:{targetingPlayer: 1b}}] ~ ~-1000 ~
+[11Jun2025 17:27:49.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NexusRGB_ was pummeled by MichyVT
+[11Jun2025 17:27:50.921] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DevelopedRoamerEntity['Henry'/28986, l='ServerLevel[world]', x=-23.06, y=-17.00, z=-203.37] died: Henry was eaten alive by Infected Human
+[11Jun2025 17:27:57.094] [Server thread/INFO] [Essentials/]: NULL issued server command: /kill @e[type=thehorrid:fleshleech]
+[11Jun2025 17:27:57.398] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [NexusRGB_]
+[11Jun2025 17:27:57.398] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [NexusRGB_]
+[11Jun2025 17:27:58.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode creative
+[11Jun2025 17:28:02.530] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /tp MichyVT
+[11Jun2025 17:28:08.218] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DevelopedRoamerEntity['Flames'/29653, l='ServerLevel[world]', x=-16.80, y=-10.00, z=-260.69] died: Flames was eaten alive by Bowser
+[11Jun2025 17:28:16.326] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Bowser'/30749, l='ServerLevel[world]', x=-8.93, y=-10.00, z=-264.15] died: Bowser was slain by Zombie
+[11Jun2025 17:28:54.183] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /gamemode survival MichyVT
+[11Jun2025 17:29:02.581] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode creative
+[11Jun2025 17:29:02.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[11Jun2025 17:29:12.876] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['WhisperFire26'/33084, l='ServerLevel[world]', x=6.18, y=-3.00, z=-158.05] died: WhisperFire26 was slain by Assimilated Jockey
+[11Jun2025 17:29:13.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 17:29:13.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 17:29:29.383] [Server thread/INFO] [Essentials/]: NULL issued server command: /tp @e[type=apollyon:the_damned,nbt={ForgeData:{targetingPlayer: 1b}}] ~ ~-1000 ~
+[11Jun2025 17:29:29.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NexusRGB_ was doomed to fall
+[11Jun2025 17:29:31.810] [Server thread/INFO] [Essentials/]: NULL issued server command: /kill @e[type=thehorrid:fleshleech]
+[11Jun2025 17:29:32.193] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [NexusRGB_]
+[11Jun2025 17:29:32.193] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [NexusRGB_]
+[11Jun2025 17:29:33.638] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /gamemode creative
+[11Jun2025 17:29:35.962] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /tp MichyVT
+[11Jun2025 17:29:52.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode survival
+[11Jun2025 17:29:58.924] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /gamemode survival
+[11Jun2025 17:29:59.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT moved too quickly! 3.5863913787803767,10.2221647815024,2.823239092006048
+[11Jun2025 17:30:01.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[11Jun2025 17:30:08.216] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode creative
+[11Jun2025 17:30:23.371] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Joker_de_Coeur'/34657, l='ServerLevel[world]', x=-123.31, y=-8.00, z=-197.53] died: Joker_de_Coeur was slain by Necroptor
+[11Jun2025 17:30:25.154] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode survival
+[11Jun2025 17:30:46.680] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode creative
+[11Jun2025 17:30:48.515] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Zero'/34434, l='ServerLevel[world]', x=-99.27, y=14.13, z=-190.92] died: Zero was slain by Assimilated Horse
+[11Jun2025 17:31:07.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[11Jun2025 17:31:10.573] [Server thread/INFO] [Essentials/]: NULL issued server command: /weather thunder 350
+[11Jun2025 17:31:22.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[11Jun2025 17:31:26.830] [Server thread/INFO] [Essentials/]: NULL issued server command: /tp @e[type=apollyon:the_damned,nbt={ForgeData:{targetingPlayer: 1b}}] ~ ~-1000 ~
+[11Jun2025 17:31:26.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NexusRGB_ was doomed to fall
+[11Jun2025 17:31:28.513] [Server thread/INFO] [Essentials/]: NULL issued server command: /kill @e[type=thehorrid:fleshleech]
+[11Jun2025 17:31:28.851] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [NexusRGB_]
+[11Jun2025 17:31:28.851] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [NexusRGB_]
+[11Jun2025 17:31:31.129] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /tp MichyVT
+[11Jun2025 17:31:36.790] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedRoamerEntity['NexusRGB_'/37454, l='ServerLevel[world]', x=-90.59, y=61.00, z=-243.87] died: NexusRGB_ was doomed to fall
+[11Jun2025 17:31:42.265] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedRoamerEntity['Flames'/37019, l='ServerLevel[world]', x=-126.24, y=63.00, z=-217.89] died: Flames has succumbed to the infection
+[11Jun2025 17:32:21.892] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode survival
+[11Jun2025 17:32:27.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode creative
+[11Jun2025 17:32:28.388] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /gamemode creative
+[11Jun2025 17:32:34.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode survival
+[11Jun2025 17:32:43.230] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Pajera'/39560, l='ServerLevel[world]', x=-80.53, y=-42.00, z=-192.89] died: Pajera was slain by Parasitic Roller
+[11Jun2025 17:32:45.750] [Server thread/INFO] [Essentials/]: NULL issued server command: /tp @e[type=apollyon:the_damned,nbt={ForgeData:{targetingPlayer: 0b}}] ~ ~-1000 ~
+[11Jun2025 17:32:45.923] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode creative
+[11Jun2025 17:32:56.202] [Server thread/INFO] [Essentials/]: NULL issued server command: /tp @s @p
+[11Jun2025 17:32:57.024] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NexusRGB_: {disabled=true, disconnected=false, uuid=68cb15d9-37b7-3236-9f84-21f913fd77bf, name=NexusRGB_, group=null}
+[11Jun2025 17:32:57.737] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NexusRGB_: {disabled=false, disconnected=false, uuid=68cb15d9-37b7-3236-9f84-21f913fd77bf, name=NexusRGB_, group=null}
+[11Jun2025 17:33:03.145] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/bettercombat/mixin/ServerPlayNetworkHandlerMixin$1
+[11Jun2025 17:33:32.076] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraftforge/common/ForgeHooks$2
+[11Jun2025 17:33:41.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /gamemode survival
+[11Jun2025 17:33:52.281] [Server thread/INFO] [Essentials/]: NULL issued server command: /tp @e[type=apollyon:the_damned,nbt={ForgeData:{targetingPlayer: 0b}}] ~ ~-1000 ~
+[11Jun2025 17:34:03.099] [Server thread/INFO] [Essentials/]: NULL issued server command: /tp @s @p
+[11Jun2025 17:34:15.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 17:34:15.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 17:34:15.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[11Jun2025 17:34:36.189] [Server thread/INFO] [Essentials/]: NULL issued server command: /tp @e[type=apollyon:the_damned,nbt={ForgeData:{targetingPlayer: 1b}}] ~ ~-1000 ~
+[11Jun2025 17:34:51.883] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /time day
+[11Jun2025 17:34:59.412] [Server thread/DEBUG] [mixin/]: Mixing CraftLegacyLegacyMixin from mixins.arclight.bukkit.json into org.bukkit.craftbukkit.v1_19_R1.legacy.CraftLegacy
+[11Jun2025 17:34:59.416] [Server thread/ERROR] [STDERR/]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[11Jun2025 17:35:02.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2956ms or 59 ticks behind
+[11Jun2025 17:35:02.307] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode survival
+[11Jun2025 17:35:16.973] [Server thread/INFO] [Essentials/]: NULL issued server command: /tp @e[type=thehorrid:twig_snap] 0 0 0
+[11Jun2025 17:35:16.973] [Server thread/INFO] [Essentials/]: NULL issued server command: /kill @e[type=thehorrid:twig_snap]
+[11Jun2025 17:35:17.022] [Server thread/INFO] [Essentials/]: NULL issued server command: /tp @e[type=thehorrid:twig_snap] 0 0 0
+[11Jun2025 17:35:17.023] [Server thread/INFO] [Essentials/]: NULL issued server command: /kill @e[type=thehorrid:twig_snap]
+[11Jun2025 17:35:17.078] [Server thread/INFO] [Essentials/]: NULL issued server command: /tp @e[type=thehorrid:twig_snap] 0 0 0
+[11Jun2025 17:35:17.079] [Server thread/INFO] [Essentials/]: NULL issued server command: /kill @e[type=thehorrid:twig_snap]
+[11Jun2025 17:35:17.143] [Server thread/INFO] [Essentials/]: NULL issued server command: /tp @e[type=thehorrid:twig_snap] 0 0 0
+[11Jun2025 17:35:17.144] [Server thread/INFO] [Essentials/]: NULL issued server command: /kill @e[type=thehorrid:twig_snap]
+[11Jun2025 17:35:17.185] [Server thread/INFO] [Essentials/]: NULL issued server command: /tp @e[type=thehorrid:twig_snap] 0 0 0
+[11Jun2025 17:35:17.186] [Server thread/INFO] [Essentials/]: NULL issued server command: /kill @e[type=thehorrid:twig_snap]
+[11Jun2025 17:35:21.864] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode creative
+[11Jun2025 17:35:45.481] [Server thread/INFO] [Essentials/]: NULL issued server command: /tp @e[type=thehorrid:twig_snap] 0 0 0
+[11Jun2025 17:35:45.482] [Server thread/INFO] [Essentials/]: NULL issued server command: /kill @e[type=thehorrid:twig_snap]
+[11Jun2025 17:35:45.530] [Server thread/INFO] [Essentials/]: NULL issued server command: /tp @e[type=thehorrid:twig_snap] 0 0 0
+[11Jun2025 17:35:45.530] [Server thread/INFO] [Essentials/]: NULL issued server command: /kill @e[type=thehorrid:twig_snap]
+[11Jun2025 17:35:45.582] [Server thread/INFO] [Essentials/]: NULL issued server command: /tp @e[type=thehorrid:twig_snap] 0 0 0
+[11Jun2025 17:35:45.583] [Server thread/INFO] [Essentials/]: NULL issued server command: /kill @e[type=thehorrid:twig_snap]
+[11Jun2025 17:35:45.635] [Server thread/INFO] [Essentials/]: NULL issued server command: /tp @e[type=thehorrid:twig_snap] 0 0 0
+[11Jun2025 17:35:45.636] [Server thread/INFO] [Essentials/]: NULL issued server command: /kill @e[type=thehorrid:twig_snap]
+[11Jun2025 17:35:45.679] [Server thread/INFO] [Essentials/]: NULL issued server command: /tp @e[type=thehorrid:twig_snap] 0 0 0
+[11Jun2025 17:35:45.679] [Server thread/INFO] [Essentials/]: NULL issued server command: /kill @e[type=thehorrid:twig_snap]
+[11Jun2025 17:35:45.731] [Server thread/INFO] [Essentials/]: NULL issued server command: /tp @e[type=thehorrid:twig_snap] 0 0 0
+[11Jun2025 17:35:45.731] [Server thread/INFO] [Essentials/]: NULL issued server command: /kill @e[type=thehorrid:twig_snap]
+[11Jun2025 17:35:45.779] [Server thread/INFO] [Essentials/]: NULL issued server command: /tp @e[type=thehorrid:twig_snap] 0 0 0
+[11Jun2025 17:35:45.779] [Server thread/INFO] [Essentials/]: NULL issued server command: /kill @e[type=thehorrid:twig_snap]
+[11Jun2025 17:35:45.885] [Server thread/INFO] [Essentials/]: NULL issued server command: /tp @e[type=thehorrid:twig_snap] 0 0 0
+[11Jun2025 17:35:45.885] [Server thread/INFO] [Essentials/]: NULL issued server command: /kill @e[type=thehorrid:twig_snap]
+[11Jun2025 17:35:57.033] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ripley'/44554, l='ServerLevel[world]', x=-71.39, y=-8.58, z=-183.96] died: Ripley was slain by Human Stage 2
+[11Jun2025 17:36:03.094] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Zero'/44555, l='ServerLevel[world]', x=-100.70, y=-11.00, z=-198.03] died: Zero was slain by Zombie
+[11Jun2025 17:36:24.149] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode survival
+[11Jun2025 17:36:44.812] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Joker_de_Coeur'/48698, l='ServerLevel[world]', x=-29.66, y=-6.00, z=-192.47] died: Joker_de_Coeur was slain by Resenter
+[11Jun2025 17:37:09.029] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [NexusRGB_]
+[11Jun2025 17:37:40.889] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedRoamerEntity['NPC_D'/48913, l='ServerLevel[world]', x=-73.48, y=-9.00, z=-193.32] died: NPC_D was fungi-fied by Infected Villager
+[11Jun2025 17:37:47.118] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode creative
+[11Jun2025 17:37:48.058] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Helldwin'/49166, l='ServerLevel[world]', x=-20.77, y=28.18, z=-120.30] died: Helldwin burned to death
+[11Jun2025 17:37:51.380] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Keymind'/49791, l='ServerLevel[world]', x=-64.44, y=-8.00, z=-184.57] died: Keymind was burnt to a crisp whilst fighting Human Stage 2
+[11Jun2025 17:37:59.822] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mademoiselle2016'/50314, l='ServerLevel[world]', x=-22.70, y=-8.00, z=-226.74] died: Mademoiselle2016 was slain by Assimilated Human
+[11Jun2025 17:38:10.739] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT issued server command: /gamemode survival
+[11Jun2025 17:38:24.381] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mademoiselle2016'/49792, l='ServerLevel[world]', x=-33.35, y=-8.00, z=-184.06] died: Mademoiselle2016 was slain by Assimilated Bear
