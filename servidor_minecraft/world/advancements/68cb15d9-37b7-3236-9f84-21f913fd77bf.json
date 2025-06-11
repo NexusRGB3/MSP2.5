@@ -1,203 +1,226 @@
 {
   "idas:idas_root": {
     "criteria": {
-      "always": "2025-06-01 02:09:54 +0000"
+      "always": "2025-06-01 17:23:18 +0000"
     },
     "done": true
   },
   "farmersdelight:main/root": {
     "criteria": {
-      "seeds": "2025-06-01 02:09:54 +0000"
+      "seeds": "2025-06-01 17:23:17 +0000"
     },
     "done": true
   },
   "spore:spore": {
     "criteria": {
-      "requirement": "2025-06-01 02:45:41 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:main/summon_wither_storm": {
-    "criteria": {
-      "summoned_wither_storm": "2025-06-01 02:59:02 +0000"
+      "requirement": "2025-06-01 18:50:42 +0000"
     },
     "done": true
   },
   "lootr:root": {
     "criteria": {
-      "always_true": "2025-06-01 02:09:54 +0000"
+      "always_true": "2025-06-01 17:23:18 +0000"
     },
     "done": true
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "minecraft:creeper": "2025-06-01 03:05:55 +0000"
+      "minecraft:skeleton": "2025-06-01 20:50:18 +0000"
     },
     "done": true
   },
   "cataclysm:root": {
     "criteria": {
-      "custom_test_name": "2025-06-01 02:09:54 +0000"
+      "custom_test_name": "2025-06-01 17:23:18 +0000"
     },
     "done": true
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-06-01 03:26:41 +0000",
-      "minecraft:spider": "2025-06-01 03:27:31 +0000",
-      "minecraft:creeper": "2025-06-01 03:05:55 +0000",
-      "minecraft:zombie": "2025-06-01 03:06:01 +0000"
+      "minecraft:skeleton": "2025-06-01 20:50:18 +0000",
+      "minecraft:drowned": "2025-06-01 21:06:52 +0000"
     },
     "done": false
   },
   "dungeons_arise:wda_root": {
     "criteria": {
-      "WDA": "2025-06-01 02:09:54 +0000"
+      "WDA": "2025-06-01 17:23:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-06-01 17:31:42 +0000"
     },
     "done": true
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_mutton": "2025-06-01 02:44:19 +0000"
+      "cooked_porkchop": "2025-06-01 18:15:54 +0000",
+      "apple": "2025-06-01 17:32:43 +0000",
+      "cooked_cod": "2025-06-01 18:13:32 +0000",
+      "cooked_salmon": "2025-06-01 17:42:43 +0000"
     },
     "done": false
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-01 20:25:10 +0000"
+    },
+    "done": true
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "muskeg": "2025-06-01 03:29:11 +0000",
-      "highland": "2025-06-01 03:30:49 +0000",
-      "coniferous_forest": "2025-06-01 02:09:54 +0000",
-      "seasonal_forest": "2025-06-01 02:39:02 +0000",
-      "pumpkin_patch": "2025-06-01 03:30:19 +0000"
+      "maple_woods": "2025-06-01 17:23:48 +0000",
+      "forested_field": "2025-06-11 17:13:42 +0000"
     },
     "done": false
   },
-  "apollyon:apollyon": {
-    "criteria": {
-      "apollyon": "2025-06-01 02:21:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/mine_stone": {
     "criteria": {
-      "get_stone": "2025-06-01 02:44:41 +0000"
+      "get_stone": "2025-06-01 17:33:13 +0000"
     },
     "done": true
   },
-  "apollyon:it_has_begun": {
+  "apollyon:apollyon": {
     "criteria": {
-      "it_has_begun": "2025-06-01 03:37:51 +0000"
+      "apollyon": "2025-06-01 17:34:06 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2025-06-01 20:00:59 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-06-01 20:52:04 +0000"
     },
     "done": true
   },
   "parcool:grant_parcool_guide": {
     "criteria": {
-      "tick": "2025-06-01 02:09:54 +0000"
+      "tick": "2025-06-01 17:23:18 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:frozen_river": "2025-06-01 03:29:14 +0000",
-      "minecraft:snowy_plains": "2025-06-01 03:32:26 +0000",
-      "minecraft:snowy_taiga": "2025-06-01 03:33:15 +0000",
-      "minecraft:cold_ocean": "2025-06-01 02:39:06 +0000"
+      "minecraft:deep_ocean": "2025-06-01 21:01:41 +0000",
+      "minecraft:beach": "2025-06-01 20:52:23 +0000",
+      "minecraft:river": "2025-06-01 18:39:34 +0000",
+      "minecraft:cold_ocean": "2025-06-01 17:31:17 +0000",
+      "minecraft:deep_cold_ocean": "2025-06-01 21:01:00 +0000"
     },
     "done": false
   },
+  "1_splatus:ultris/ender": {
+    "criteria": {
+      "c1": "2025-06-01 17:59:37 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
-      "coniferous_forest": "2025-06-01 02:09:54 +0000"
+      "maple_woods": "2025-06-01 17:23:48 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/three_bolt_helmet": {
+    "criteria": {
+      "has_item": "2025-06-01 18:32:00 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-06-01 20:53:25 +0000"
     },
     "done": true
   },
   "create:root": {
     "criteria": {
-      "0": "2025-06-01 02:09:54 +0000"
+      "0": "2025-06-01 17:23:17 +0000"
     },
     "done": true
   },
   "aquamirae:adventure/root": {
     "criteria": {
-      "crafting_table": "2025-06-01 02:32:58 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:main/root": {
-    "criteria": {
-      "summoned_wither_storm": "2025-06-01 02:59:02 +0000"
+      "crafting_table": "2025-06-01 17:52:40 +0000"
     },
     "done": true
   },
   "minecraft:husbandry/root": {
     "criteria": {
-      "consumed_item": "2025-06-01 02:44:19 +0000"
+      "consumed_item": "2025-06-01 17:32:43 +0000"
     },
     "done": true
   },
-  "apollyon:condemned_to_die": {
+  "minecraft:story/iron_tools": {
     "criteria": {
-      "condemned_to_die": "2025-06-01 02:23:40 +0000"
+      "iron_pickaxe": "2025-06-01 18:03:24 +0000"
     },
     "done": true
   },
   "minecraft:story/upgrade_tools": {
     "criteria": {
-      "stone_pickaxe": "2025-06-01 02:45:14 +0000"
+      "stone_pickaxe": "2025-06-01 17:23:18 +0000"
     },
     "done": true
   },
   "apollyon:back_to_hell": {
     "criteria": {
-      "back_to_hell": "2025-06-01 03:04:56 +0000"
-    },
-    "done": true
-  },
-  "1_splatus:ultris/illusioner": {
-    "criteria": {
-      "c1": "2025-06-01 03:05:48 +0000"
+      "back_to_hell": "2025-06-01 18:51:15 +0000"
     },
     "done": true
   },
   "1_splatus:ultris/root": {
     "criteria": {
-      "c1": "2025-06-01 02:09:54 +0000"
+      "c1": "2025-06-01 17:23:18 +0000"
     },
     "done": true
   },
   "minecraft:story/root": {
     "criteria": {
-      "crafting_table": "2025-06-01 02:32:58 +0000"
+      "crafting_table": "2025-06-01 17:52:40 +0000"
     },
     "done": true
   },
-  "extermination:have_a_grenade": {
+  "minecraft:story/smelt_iron": {
     "criteria": {
-      "have_a_grenade": "2025-06-01 03:43:24 +0000"
+      "iron": "2025-06-01 18:00:22 +0000"
+    },
+    "done": true
+  },
+  "anthropology_items__structures:final_frontier": {
+    "criteria": {
+      "final_frontier": "2025-06-01 18:35:27 +0000"
     },
     "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
-      "killed_by_something": "2025-06-01 02:23:40 +0000"
+      "killed_something": "2025-06-01 17:31:37 +0000"
     },
     "done": true
   },
   "mowziesmobs:root": {
     "criteria": {
-      "custom_test_name": "2025-06-01 02:09:54 +0000"
+      "custom_test_name": "2025-06-01 17:23:18 +0000"
     },
     "done": true
   },
   "ironfurnaces:coal": {
     "criteria": {
-      "rainbowcoal": "2025-06-01 02:09:54 +0000"
+      "rainbowcoal": "2025-06-01 17:23:17 +0000"
     },
     "done": true
   },
   "travelersbackpack:standard_from_custom": {
     "criteria": {
-      "has_the_recipe": "2025-06-01 02:09:54 +0000"
+      "has_the_recipe": "2025-06-01 17:23:17 +0000"
     },
     "done": true
   },
