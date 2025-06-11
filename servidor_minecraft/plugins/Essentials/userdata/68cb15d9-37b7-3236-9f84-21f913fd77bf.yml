@@ -11,28 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1749663091130
+  lastteleport: 1749664067771
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1748812107861
+  logout: 1749664450829
   login: 1749661655193
 money: '0'
 last-account-name: NexusRGB_
 lastlocation:
   world: 511c5d99-5de2-45fe-917d-9222b7e2b19d
   world-name: world
-  x: 0.0
+  x: -0.260875856275273
   y: 69.0
-  z: 0.0
-  yaw: 0.0
-  pitch: 0.0
+  z: 1.5697595764101258
+  yaw: 9.600000381469727
+  pitch: 21.450000762939453
 logoutlocation:
   world: 511c5d99-5de2-45fe-917d-9222b7e2b19d
   world-name: world
   x: 0.0
   y: 69.0
   z: 0.0
-  yaw: 0.0
-  pitch: 0.0
+  yaw: -3.000000238418579
+  pitch: 5.550001621246338

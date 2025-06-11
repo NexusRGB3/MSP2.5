@@ -38,6 +38,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-01 20:50:18 +0000",
+      "minecraft:spider": "2025-06-11 17:38:38 +0000",
       "minecraft:drowned": "2025-06-01 21:06:52 +0000"
     },
     "done": false
@@ -168,6 +169,12 @@
   "aquamirae:adventure/root": {
     "criteria": {
       "crafting_table": "2025-06-01 17:52:40 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/warped_mosco_kill": {
+    "criteria": {
+      "killed": "2025-06-11 17:53:43 +0000"
     },
     "done": true
   },
