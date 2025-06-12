@@ -14,7 +14,12 @@ regions:
         min: {x: 155, y: -64, z: 1401}
         max: {x: 157, y: 319, z: 1404}
         members: {}
-        flags: {}
+        flags: {other-explosion: deny, natural-health-regen: allow, wither-damage: deny,
+            lava-fire: deny, invincible: allow, enderman-grief: deny, pvp: deny, mob-spawning: deny,
+            block-place: allow, sleep: allow, creeper-explosion: deny, build: allow,
+            fall-damage: deny, mob-damage: deny, block-break: allow, entity-painting-destroy: deny,
+            ravager-grief: deny, heal-amount: 1, entity-item-frame-destroy: deny,
+            heal-delay: 5}
         owners: {}
         type: cuboid
         priority: 0

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.243.86.2
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1749757350745
+  login: 1749755855938
+money: '0'
+last-account-name: NexusRGB_
+logoutlocation:
+  world: b654e825-f124-4b03-8bc9-8842efc25137
+  world-name: The Overgrown City V2.0
+  x: 66.54746658701562
+  y: 69.0
+  z: 1468.9835257424506
+  yaw: 136.44989013671875
+  pitch: 22.349905014038086
