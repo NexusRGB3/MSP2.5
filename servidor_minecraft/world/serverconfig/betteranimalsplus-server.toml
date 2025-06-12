@@ -1,0 +1,330 @@
+
+[brownbear]
+	#The spawn chance compared to other animals (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 7
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 1
+	#Disables natural spawning
+	doSpawning = true
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:birch_forest_hills", "minecraft:jungle_edge", "minecraft:giant_tree_taiga_hills", "minecraft:wooded_hills", "minecraft:giant_spruce_taiga", "minecraft:dark_forest", "minecraft:giant_tree_taiga", "minecraft:snowy_taiga_hills", "minecraft:tall_birch_forest", "minecraft:taiga_hills", "minecraft:wooded_mountains", "minecraft:dark_forest_hills", "minecraft:snowy_taiga_mountains", "minecraft:birch_forest", "minecraft:snowy_taiga", "minecraft:taiga_mountains", "minecraft:tall_birch_hills", "minecraft:forest", "minecraft:taiga", "minecraft:giant_spruce_taiga_hills", "minecraft:flower_forest"]
+
+[blackbear]
+	#The spawn chance compared to other animals (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 6
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 1
+	#Disables natural spawning
+	doSpawning = true
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:birch_forest_hills", "minecraft:jungle_edge", "minecraft:giant_tree_taiga_hills", "minecraft:wooded_hills", "minecraft:giant_spruce_taiga", "minecraft:dark_forest", "minecraft:giant_tree_taiga", "minecraft:snowy_taiga_hills", "minecraft:tall_birch_forest", "minecraft:taiga_hills", "minecraft:wooded_mountains", "minecraft:dark_forest_hills", "minecraft:snowy_taiga_mountains", "minecraft:birch_forest", "minecraft:snowy_taiga", "minecraft:taiga_mountains", "minecraft:tall_birch_hills", "minecraft:forest", "minecraft:taiga", "minecraft:giant_spruce_taiga_hills", "minecraft:flower_forest"]
+
+[deer]
+	#The spawn chance compared to other animals (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 16
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 4
+	#Disables natural spawning
+	doSpawning = true
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:birch_forest_hills", "minecraft:jungle_edge", "minecraft:giant_tree_taiga_hills", "minecraft:wooded_hills", "minecraft:giant_spruce_taiga", "minecraft:dark_forest", "minecraft:giant_tree_taiga", "minecraft:snowy_taiga_hills", "minecraft:tall_birch_forest", "minecraft:taiga_hills", "minecraft:wooded_mountains", "minecraft:dark_forest_hills", "minecraft:snowy_taiga_mountains", "minecraft:birch_forest", "minecraft:snowy_taiga", "minecraft:taiga_mountains", "minecraft:tall_birch_hills", "minecraft:forest", "minecraft:taiga", "minecraft:giant_spruce_taiga_hills", "minecraft:flower_forest"]
+
+[lammergeier]
+	#List of acceptable item IDs to use for taming
+	tameItems = ["minecraft:bone"]
+	#The spawn chance compared to other animals (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 7
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 2
+	#Disables natural spawning
+	doSpawning = true
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:eroded_badlands", "minecraft:wooded_hills", "minecraft:swamp_hills", "minecraft:tall_birch_forest", "minecraft:desert_hills", "minecraft:snowy_taiga_mountains", "minecraft:giant_spruce_taiga_hills", "minecraft:flower_forest", "minecraft:mountains", "minecraft:shattered_savanna", "minecraft:modified_jungle_edge", "minecraft:snowy_mountains", "minecraft:modified_wooded_badlands_plateau", "minecraft:modified_jungle", "minecraft:birch_forest_hills", "minecraft:modified_gravelly_mountains", "minecraft:giant_tree_taiga_hills", "minecraft:modified_badlands_plateau", "minecraft:gravelly_mountains", "minecraft:snowy_taiga_hills", "minecraft:taiga_hills", "minecraft:ice_spikes", "minecraft:wooded_mountains", "minecraft:dark_forest_hills", "minecraft:taiga_mountains", "minecraft:tall_birch_hills", "minecraft:shattered_savanna_plateau", "minecraft:jungle_hills", "minecraft:mountain_edge"]
+
+[feralwolf]
+	#List of acceptable item IDs to use for taming
+	tameItems = ["minecraft:bone"]
+	#The spawn chance compared to other animals (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 7
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 6
+	#Disables natural spawning
+	doSpawning = true
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:birch_forest_hills", "minecraft:jungle_edge", "minecraft:giant_tree_taiga_hills", "minecraft:wooded_hills", "minecraft:giant_spruce_taiga", "minecraft:dark_forest", "minecraft:giant_tree_taiga", "minecraft:snowy_taiga_hills", "minecraft:tall_birch_forest", "minecraft:taiga_hills", "minecraft:wooded_mountains", "minecraft:dark_forest_hills", "minecraft:snowy_taiga_mountains", "minecraft:birch_forest", "minecraft:snowy_taiga", "minecraft:taiga_mountains", "minecraft:tall_birch_hills", "minecraft:forest", "minecraft:taiga", "minecraft:giant_spruce_taiga_hills", "minecraft:flower_forest"]
+
+[coyote]
+	#List of acceptable item IDs to use for taming
+	tameItems = ["minecraft:rabbit", "minecraft:chicken", "betteranimalsplus:pheasantraw", "minecraft:cooked_rabbit", "minecraft:cooked_chicken", "betteranimalsplus:pheasantcooked"]
+	#The spawn chance compared to other animals (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 5
+	#Makes coyote always hostile (removes ability to tame!)
+	coyoteHostileDaytime = false
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 6
+	#Disables natural spawning
+	doSpawning = true
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:savanna", "minecraft:sunflower_plains", "minecraft:desert", "minecraft:plains", "minecraft:wooded_badlands_plateau", "minecraft:badlands", "minecraft:desert_lakes", "minecraft:badlands_plateau", "minecraft:savanna_plateau", "minecraft:desert_hills"]
+
+[tarantula]
+	#The spawn chance compared to other animals (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 13
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 3
+	#Disables natural spawning
+	doSpawning = true
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:desert", "minecraft:wooded_badlands_plateau", "minecraft:badlands", "minecraft:desert_lakes", "minecraft:badlands_plateau", "minecraft:desert_hills"]
+
+[hirschgeist]
+	#The spawn chance compared to other animals (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 2
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 1
+	#Disables natural spawning
+	doSpawning = true
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:birch_forest_hills", "minecraft:jungle_edge", "minecraft:giant_tree_taiga_hills", "minecraft:wooded_hills", "minecraft:giant_spruce_taiga", "minecraft:dark_forest", "minecraft:giant_tree_taiga", "minecraft:snowy_taiga_hills", "minecraft:tall_birch_forest", "minecraft:taiga_hills", "minecraft:wooded_mountains", "minecraft:dark_forest_hills", "minecraft:snowy_taiga_mountains", "minecraft:birch_forest", "minecraft:snowy_taiga", "minecraft:taiga_mountains", "minecraft:tall_birch_hills", "minecraft:forest", "minecraft:taiga", "minecraft:giant_spruce_taiga_hills", "minecraft:flower_forest"]
+
+[goat]
+	#Enabling this will cause goats to give out vanilla milk instead of goat milk.
+	goatVanillaMilk = false
+	#The spawn chance compared to other animals (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 9
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 4
+	#Disables natural spawning
+	doSpawning = true
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:eroded_badlands", "minecraft:sunflower_plains", "minecraft:wooded_hills", "minecraft:giant_spruce_taiga", "minecraft:swamp_hills", "minecraft:dark_forest", "minecraft:savanna_plateau", "minecraft:tall_birch_forest", "minecraft:desert_hills", "minecraft:snowy_taiga_mountains", "minecraft:birch_forest", "minecraft:snowy_taiga", "minecraft:forest", "minecraft:plains", "minecraft:giant_spruce_taiga_hills", "minecraft:taiga", "minecraft:flower_forest", "minecraft:mountains", "minecraft:shattered_savanna", "minecraft:modified_jungle_edge", "minecraft:snowy_mountains", "minecraft:modified_wooded_badlands_plateau", "minecraft:modified_jungle", "minecraft:birch_forest_hills", "minecraft:modified_gravelly_mountains", "minecraft:jungle_edge", "minecraft:giant_tree_taiga_hills", "minecraft:modified_badlands_plateau", "minecraft:gravelly_mountains", "minecraft:giant_tree_taiga", "minecraft:snowy_taiga_hills", "minecraft:taiga_hills", "minecraft:ice_spikes", "minecraft:wooded_mountains", "minecraft:dark_forest_hills", "minecraft:taiga_mountains", "minecraft:tall_birch_hills", "minecraft:savanna", "minecraft:shattered_savanna_plateau", "minecraft:jungle_hills", "minecraft:mountain_edge"]
+
+[jellyfish]
+	#The spawn chance compared to other animals (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 10
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 1
+	#Disables natural spawning
+	doSpawning = true
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:lukewarm_ocean", "minecraft:cold_ocean", "minecraft:deep_warm_ocean", "minecraft:deep_lukewarm_ocean", "minecraft:ocean", "minecraft:frozen_ocean", "minecraft:warm_ocean", "minecraft:deep_frozen_ocean", "minecraft:deep_ocean", "minecraft:deep_cold_ocean"]
+
+[pheasant]
+	#The spawn chance compared to other animals (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 12
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 3
+	#Disables natural spawning
+	doSpawning = true
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:sunflower_plains", "minecraft:wooded_hills", "minecraft:giant_spruce_taiga", "minecraft:dark_forest", "minecraft:savanna_plateau", "minecraft:tall_birch_forest", "minecraft:snowy_taiga_mountains", "minecraft:birch_forest", "minecraft:snowy_taiga", "minecraft:forest", "minecraft:plains", "minecraft:taiga", "minecraft:giant_spruce_taiga_hills", "minecraft:flower_forest", "minecraft:shattered_savanna", "minecraft:birch_forest_hills", "minecraft:jungle_edge", "minecraft:giant_tree_taiga_hills", "minecraft:giant_tree_taiga", "minecraft:snowy_taiga_hills", "minecraft:taiga_hills", "minecraft:wooded_mountains", "minecraft:dark_forest_hills", "minecraft:taiga_mountains", "minecraft:tall_birch_hills", "minecraft:savanna", "minecraft:shattered_savanna_plateau"]
+
+[reindeer]
+	#The spawn chance compared to other animals (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 10
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 4
+	#Disables natural spawning
+	doSpawning = true
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:snowy_taiga", "minecraft:frozen_ocean", "minecraft:snowy_beach", "minecraft:frozen_river", "minecraft:snowy_tundra", "minecraft:snowy_taiga_hills", "minecraft:snowy_mountains", "minecraft:ice_spikes", "minecraft:snowy_taiga_mountains"]
+
+[boar]
+	#The spawn chance compared to other animals (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 9
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 4
+	#Disables natural spawning
+	doSpawning = true
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:sunflower_plains", "minecraft:wooded_hills", "minecraft:giant_spruce_taiga", "minecraft:dark_forest", "minecraft:savanna_plateau", "minecraft:tall_birch_forest", "minecraft:snowy_taiga_mountains", "minecraft:birch_forest", "minecraft:snowy_taiga", "minecraft:forest", "minecraft:plains", "minecraft:taiga", "minecraft:giant_spruce_taiga_hills", "minecraft:flower_forest", "minecraft:shattered_savanna", "minecraft:modified_jungle_edge", "minecraft:modified_jungle", "minecraft:birch_forest_hills", "minecraft:jungle_edge", "minecraft:giant_tree_taiga_hills", "minecraft:giant_tree_taiga", "minecraft:snowy_taiga_hills", "minecraft:taiga_hills", "minecraft:wooded_mountains", "minecraft:dark_forest_hills", "minecraft:taiga_mountains", "minecraft:tall_birch_hills", "minecraft:savanna", "minecraft:shattered_savanna_plateau", "minecraft:jungle_hills", "minecraft:jungle"]
+
+[squirrel]
+	#The spawn chance compared to other animals (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 8
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 3
+	#Disables natural spawning
+	doSpawning = true
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:birch_forest_hills", "minecraft:jungle_edge", "minecraft:giant_tree_taiga_hills", "minecraft:wooded_hills", "minecraft:giant_spruce_taiga", "minecraft:dark_forest", "minecraft:giant_tree_taiga", "minecraft:snowy_taiga_hills", "minecraft:tall_birch_forest", "minecraft:taiga_hills", "minecraft:wooded_mountains", "minecraft:dark_forest_hills", "minecraft:snowy_taiga_mountains", "minecraft:birch_forest", "minecraft:snowy_taiga", "minecraft:taiga_mountains", "minecraft:tall_birch_hills", "minecraft:forest", "minecraft:taiga", "minecraft:giant_spruce_taiga_hills", "minecraft:flower_forest"]
+
+[songbird]
+	#The spawn chance compared to other animals (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 11
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 4
+	#Disables natural spawning
+	doSpawning = true
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:sunflower_plains", "minecraft:wooded_hills", "minecraft:giant_spruce_taiga", "minecraft:dark_forest", "minecraft:savanna_plateau", "minecraft:tall_birch_forest", "minecraft:snowy_taiga_mountains", "minecraft:birch_forest", "minecraft:snowy_taiga", "minecraft:forest", "minecraft:plains", "minecraft:taiga", "minecraft:giant_spruce_taiga_hills", "minecraft:flower_forest", "minecraft:birch_forest_hills", "minecraft:jungle_edge", "minecraft:giant_tree_taiga_hills", "minecraft:giant_tree_taiga", "minecraft:snowy_taiga_hills", "minecraft:taiga_hills", "minecraft:wooded_mountains", "minecraft:dark_forest_hills", "minecraft:taiga_mountains", "minecraft:tall_birch_hills", "minecraft:savanna"]
+
+[badger]
+	#The spawn chance compared to other animals (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 7
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 2
+	#Disables natural spawning
+	doSpawning = true
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:sunflower_plains", "minecraft:wooded_hills", "minecraft:giant_spruce_taiga", "minecraft:dark_forest", "minecraft:savanna_plateau", "minecraft:tall_birch_forest", "minecraft:snowy_taiga_mountains", "minecraft:birch_forest", "minecraft:snowy_taiga", "minecraft:forest", "minecraft:plains", "minecraft:taiga", "minecraft:giant_spruce_taiga_hills", "minecraft:flower_forest", "minecraft:shattered_savanna", "minecraft:birch_forest_hills", "minecraft:jungle_edge", "minecraft:giant_tree_taiga_hills", "minecraft:giant_tree_taiga", "minecraft:snowy_taiga_hills", "minecraft:taiga_hills", "minecraft:wooded_mountains", "minecraft:dark_forest_hills", "minecraft:taiga_mountains", "minecraft:tall_birch_hills", "minecraft:savanna", "minecraft:shattered_savanna_plateau"]
+
+[lamprey]
+	#The spawn chance compared to other animals (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 7
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 1
+	#Disables natural spawning
+	doSpawning = true
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:river", "minecraft:swamp", "minecraft:frozen_river", "minecraft:swamp_hills"]
+
+[nautilus]
+	#The spawn chance compared to other animals (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 4
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 1
+	#Disables natural spawning
+	doSpawning = true
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:lukewarm_ocean", "minecraft:cold_ocean", "minecraft:deep_warm_ocean", "minecraft:deep_lukewarm_ocean", "minecraft:ocean", "minecraft:frozen_ocean", "minecraft:warm_ocean", "minecraft:deep_frozen_ocean", "minecraft:deep_ocean", "minecraft:deep_cold_ocean"]
+
+[crab]
+	#The spawn chance compared to other animals (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 10
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 3
+	#Disables natural spawning
+	doSpawning = true
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:mushroom_field_shore", "minecraft:snowy_beach", "minecraft:swamp", "minecraft:swamp_hills", "minecraft:beach", "minecraft:stone_shore"]
+
+[horseshoecrab]
+	#The spawn chance compared to other animals (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 8
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 3
+	#Disables natural spawning
+	doSpawning = true
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:mushroom_field_shore", "minecraft:snowy_beach", "minecraft:beach", "minecraft:stone_shore"]
+
+[shark]
+	#The spawn chance compared to other animals (typically between 6-20)
+	#Range: 1 ~ 9999
+	weight = 4
+	#Must be greater or equal to min value!
+	#Range: 1 ~ 9999
+	maxGroup = 1
+	#Disables natural spawning
+	doSpawning = true
+	#Must be greater than 0
+	#Range: 1 ~ 9999
+	minGroup = 1
+	#Enter biome Resource Locations. Supports modded biomes.
+	spawnBiomes = ["minecraft:lukewarm_ocean", "minecraft:cold_ocean", "minecraft:deep_warm_ocean", "minecraft:deep_lukewarm_ocean", "minecraft:ocean", "minecraft:frozen_ocean", "minecraft:warm_ocean", "minecraft:deep_frozen_ocean", "minecraft:deep_ocean", "minecraft:deep_cold_ocean"]
+
+[misc]
+	#Setting to true enables biome based variant spawning. This will make some entities choose variants based on the biome they spawn in. However, it will also affect eggs, possibly reducing the amount of visible content.
+	biomeBasedVariants = false
+
